@@ -1,139 +1,168 @@
 <p align="center">
-    <img width="98%"
-        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Dream%20Builder&reversal=false&section=header&animation=twinkling" />
+  <img
+    width="98%"
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Dream%20Builder&reversal=false&section=header&animation=twinkling"
+    alt="Dream Builder"
+  />
 </p>
 
-<br />
+<h1 align="center">Hi there, am I cool yet? 😎</h1>
 
-#
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=1000&color=00FF7F&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+Web+Enthusiast;Always+Building+and+Learning"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/zha0090">
+    <img src="https://img.shields.io/github/followers/zha0090?label=Followers&style=for-the-badge&color=26A5E0" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/zha0090?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zha0090&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## About Me
+
+- I enjoy building clean, useful software with modern web technologies.
+- I work across frontend, backend, APIs, databases, and cloud tooling.
+- I am interested in AI, automation, scalable systems, and developer tools.
+- I like turning ideas into practical products and continuously improving my craft.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,angular,redux,tailwind,materialui,threejs&theme=dark" alt="Frontend skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,go,java,php,graphql,mongodb,mysql,postgres,sqlite&theme=dark" alt="Backend and database skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,rust,solidity&theme=dark" alt="Tools and other skills" />
+</p>
+
 <table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-            <br>React
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-            <br>Three.js
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-            <br>Redux
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-            <br>Django
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-            <br>Kubernetes
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-            <br>MaterialUI
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-            <br>GraphQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-            <br>Vue
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-            <br>Nuxt.js
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-            <br>AWS
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-            <br>Typescript
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-            <br>Go
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-            <br>Java
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-            <br>Sass
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-            <br>MongoDB
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-            <br>MySQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-            <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
-            <br>PHP
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-            <br>SQLite
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-            <br>Python
-        </td>
-        <td align="center" width="90">
-            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-            <br>Solana
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-            <br>REST API
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-            <br>Javascript
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-            <br>Docker
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-            <br>Next.js
-        </td>
-        <td align="center" width="90">
-            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-            <br>Ethereum
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-            <br>Rust
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-            <br>Angular
-        </td>
-    </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br />Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
+      <br />Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
+      <br />Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+      <br />AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br />GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      <br />Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br />Rust
+    </td>
+  </tr>
 </table>
-<br />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=zha0090&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="195"
+    src="https://github-readme-stats.vercel.app/api?username=zha0090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff"
+    alt="zha0090 GitHub stats"
+  />
+  <img
+    height="195"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zha0090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zha0090&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub activity graph"
+  />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zha0090">
+    <img src="https://img.shields.io/badge/GitHub-zha0090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"
+    alt="Footer"
+  />
+</p>
