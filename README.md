@@ -116,13 +116,11 @@
   />
 </p>
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zha0090&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
+</picture>
 
 ---
 
