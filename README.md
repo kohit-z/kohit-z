@@ -128,12 +128,11 @@
 
 ## Contribution Snake
 
-<p align="center">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
