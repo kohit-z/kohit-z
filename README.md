@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=1000&color=00FF7F&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+Web+Enthusiast;Always+Building+and+Learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=1000&color=DA70D6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+Web+Enthusiast;Always+Building+and+Learning"
     alt="Typing SVG"
   />
 </p>
@@ -98,13 +98,6 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zha0090&theme=tokyonight&hide_border=true&background=0D1117"
-    alt="GitHub streak"
-  />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake-dark.svg">
