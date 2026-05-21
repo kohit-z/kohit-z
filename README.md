@@ -16,75 +16,9 @@
   />
 </p>
 
-
-## Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,angular,redux,tailwind,materialui,threejs&theme=dark" alt="Frontend skills" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&theme=dark_magic_girl" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,go,java,php,graphql,mongodb,mysql,postgres,sqlite&theme=dark" alt="Backend and database skills" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,rust,solidity&theme=dark" alt="Tools and other skills" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
-      <br />Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
-      <br />Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
-      <br />AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br />GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br />Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br />Rust
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -106,6 +40,9 @@
 <p align="center">
   <a href="https://github.com/zha0090">
     <img src="https://img.shields.io/badge/GitHub-zha0090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rising.star.supp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rising.star.supp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
