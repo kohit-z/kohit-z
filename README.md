@@ -1,5 +1,13 @@
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=zha0090&theme=dark_magic_girl&data=followers,repositories,stars,commits' />
+  <picture>
+    <source
+      srcset="https://github-widgetbox.vercel.app/api/profile?username=zha0090&theme=dark_magic_girl&data=followers,repositories,stars,commits"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-widgetbox.vercel.app/api/profile?username=zha0090&theme=cheesecake&data=followers,repositories,stars,commits"
+    />
+  </picture>
 </p>
 <p align="center">
   <img
