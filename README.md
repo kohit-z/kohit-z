@@ -23,7 +23,7 @@
 <p align="center">
   <picture>
     <img
-      src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&libraries=babel,p5,tensorflow,jquery&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&software=linux,windows,vscode&theme=dark_magic_girl"
+      src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,dart,go,scala,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,sass,graphql,markdown&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,nest,tailwind,express,svelte,angular,dotnetcore,laravel,dotnet&libraries=tensorflow,jquery&tools=git,docker,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&software=linux,windows,vscode&theme=dark_magic_girl"
     />
   </picture>
 </p>
