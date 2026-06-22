@@ -47,6 +47,9 @@
   <a href="https://github.com/zha0090">
     <img src="https://img.shields.io/badge/GitHub-zha0090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:laiger.morning@outlook.com">
+    <img src="https://img.shields.io/badge/Email-laiger.morning%40outlook.com-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
