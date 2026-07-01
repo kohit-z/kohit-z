@@ -1,7 +1,7 @@
 <p align='center'>
   <picture>
     <img
-      src="https://github-widgetbox.vercel.app/api/profile?username=zha0090&theme=dark_magic_girl&data=followers,repositories,stars,commits"
+      src="https://github-widgetbox.vercel.app/api/profile?username=kohit-z&theme=dark_magic_girl&data=followers,repositories,stars,commits"
     />
   </picture>
 </p>
@@ -31,11 +31,11 @@
 ## GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kohit-z/kohit-z/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kohit-z/kohit-z/output/github-contribution-grid-snake.svg">
   <img
   alt="GitHub contribution snake"
-  src="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/kohit-z/kohit-z/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -44,8 +44,8 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/zha0090">
-    <img src="https://img.shields.io/badge/GitHub-zha0090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/kohit-z">
+    <img src="https://img.shields.io/badge/GitHub-kohit-z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:laiger.morning@outlook.com">
     <img src="https://img.shields.io/badge/Email-laiger.morning%40outlook.com-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Email" />
