@@ -44,9 +44,6 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kohit-z">
-    <img src="https://img.shields.io/badge/GitHub-kohit-z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:laiger.morning@outlook.com">
     <img src="https://img.shields.io/badge/Email-laiger.morning%40outlook.com-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Email" />
   </a>
